@@ -1,0 +1,11 @@
+.lines {
+  background: textures.lines(orientation virtical horizontal, size 4, strokeWidth 1, shapeRendering crispEdges, stroke #51a8dd);
+}
+
+.circles {
+  background: textures.circles(lighter, fill #ccc, background #222);
+}
+
+.paths {
+  background: textures.paths(d crosses, lighter, thicker, stroke #cb1b45);
+}
