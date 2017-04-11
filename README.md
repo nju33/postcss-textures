@@ -17,7 +17,7 @@ postcss([textures])
 
 ## Usage
 
-For example, if you want to use the following on this page
+For example, if you want to use the following on [this page](http://riccardoscalco.github.io/textures/)
 
 ```js
 textures.lines().heavier(10).thinner(1.5);
